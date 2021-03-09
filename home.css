@@ -1,0 +1,114 @@
+
+
+header{
+	background-color:maroon;
+	padding:1em 0;
+	text-align: center;
+}
+	
+	
+}
+.logo{
+   float: left;	
+   
+}
+.mustafe{
+	list-style-type:none;
+	text-align:center;
+	padding:0;
+	margin:0;	
+}
+.mustafe li{
+	display:inline-block;
+	background-color:white;
+	text-align: center;
+	
+	
+}
+
+.mustafe a{
+	text-decoration:none;
+	font-size:18;
+	font-family:Times New Roman (Headings CS);
+    padding:0.5em 0.8em;
+	background-color:white;
+	border-radius:0px;
+	text-align: center;
+}
+
+.HallONE{
+	padding:0;
+	margin:0;
+	
+	
+}
+.HallONE .QaybtaDhexda {
+	width:66%;
+	
+	float:right;
+	margin:10;
+	padding:1em;
+	border:1px solid maroon;
+	
+}
+.HallONE .midig{
+	width:20%;
+	
+	float:right;
+	margin:10;
+	padding:1em;
+	border:1px solid maroon;
+	
+}
+.HallONE .Sawiro{
+		width:20%;
+	
+	float:right;
+	margin:10;
+	padding:1em;
+	border:1px solid maroon;
+	
+}
+
+
+
+legend{
+	background-color:maroon;
+	color:white;
+	font-size:18px;
+	text-align:left;
+	
+	
+}
+
+form{
+	color:maroon;
+	font-size:12px;
+	
+}
+
+h1{
+	background-color:maroon;
+	color:white;
+	text-align:Center;
+	font-size:45px;
+	
+}
+p{
+	font-size:12px;
+}
+
+h3{
+	background-color:maroon;
+	color:white;
+	text-align:center;
+}
+marquee{
+	background-color:maroon;
+	border:0em;
+	color:white;
+	margin:0;
+	padding:0.4em;
+	font-family:Times New Roman (Headings CS);
+	font-size:13;
+}

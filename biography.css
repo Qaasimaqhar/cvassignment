@@ -1,0 +1,61 @@
+header {
+	background-color:purple;
+	padding:1em 0;
+	
+}	
+
+.Mustafe {
+	list-style-type:none;
+	text-align:center;
+	padding:0;
+	margin:0;	
+}
+.Mustafe li{
+	display:inline-block;
+	background-color:white;	
+	margin: 2px;
+	padding: 5px;
+	border: 2em;
+}
+.Mustafe a{
+	text-decoration:none;
+	font-size:18;
+	font-family:Times New Roman (Headings CS);
+    padding:0.5em 0.8em;
+	background-color:white;
+	border-radius:0px;
+}
+.container .Biography {
+	width:70%;
+	
+	float:right;
+	margin:10;
+	padding:1em;
+	border:3px solid purple;	
+}
+h1{
+	background-color:purple;
+	color:white;
+	text-align:center;
+	font-size:50px;	
+}
+p{
+	font-size:15px;
+	font-family: 'Times New Roman', Times, serif ;	
+}
+
+h3{
+	background-color:purple;
+	color:white;
+	text-align:center;
+}
+
+marquee{
+	background-color:purple;
+	border:0em;
+	color:white;
+	margin:0;
+	padding:0.4em;
+	font-family:Times New Roman (Headings CS);
+	font-size:13;
+}
